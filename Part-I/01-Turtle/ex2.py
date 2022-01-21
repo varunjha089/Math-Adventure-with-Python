@@ -14,11 +14,15 @@ def squares():
         right(90)
 
 
-def sixtySquares():
-    for i in range(60):
+# TIMES:- Times to rotate
+def sixtySquares(TIMES):
+    for i in range(TIMES):
         squares()
         right(5)
 
 
-sixtySquares()
+sixtySquares(60)
+
+# this will save the art in .eps format which can be viewed using Inkscape.
+getcanvas().postscript(file="circle.eps")
 sleep(5)

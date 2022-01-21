@@ -1,3 +1,3 @@
 # Math Adventure with Python
+**_by_** `PTER FARRELL`
 
-Math Adventure with Pythoon
