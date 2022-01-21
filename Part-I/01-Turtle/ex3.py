@@ -1,6 +1,6 @@
 """
 On page-13:-
-
+Write a triangle() function that will draw a triangle of a given "side length."
 """
 
 from turtle import *
@@ -17,6 +17,7 @@ def times(TIMES):
     for i in range(TIMES):
         triangle()
         right(5)
+
 
 times(1)
 # this will save the art in .eps format which can be viewed using Inkscape.
