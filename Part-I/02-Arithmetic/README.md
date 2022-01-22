@@ -40,3 +40,10 @@ def summation(num):
 
 print(summation(20))
 ```
+
+## Exercises
+
+| S. No. | Name                | Source            |
+|--------|---------------------|-------------------|
+| 01     | Finding the Sum     | [ex1.py](ex1.py/) |
+| 02     | Finding the Average | [ex2.py](ex2.py/) |
